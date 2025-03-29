@@ -1,0 +1,5 @@
+The repository, Library_Management is consisting of 4 files with names (Book.java, BookCatalog.java, BookStatus.java, BookManagementUI.java)
+The BookManagementUI.java consists of the main method, the execution needs to be done on that file.
+Challenges:
+1. Choosing the Data Structure for storing and for operations like Searching, Updating, Deletion
+2. An enumeration class has been created to overcome the challenge faced of creating an instance, and also as status is a property of Book using a class is more understandable.
